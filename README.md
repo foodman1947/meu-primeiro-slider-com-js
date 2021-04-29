@@ -1,0 +1,1 @@
+fiz um slider para objetos com js
